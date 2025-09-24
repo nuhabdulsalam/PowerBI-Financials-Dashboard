@@ -9,3 +9,6 @@ It helps users quickly analyze trends and make informed business decisions.
 - Filter data by product or category
 - Interactive visuals including line charts, bar charts, and slicers
 - Tooltips for detailed insights
+
+## Dashboard Preview
+![Dashboard Screenshot](Financials%20Dashboard%20Image.PNG)
